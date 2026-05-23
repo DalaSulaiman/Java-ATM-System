@@ -22,9 +22,7 @@ public class Main {
 
     }
     public static void main(String[] args) {
-        // step to call a functions 1st is Return value type:نوع القيمه الراجعه DataTYPES String,int,float, double also using var
-        //void dose not need a return type
-        //call the funcition
+    
         Scanner input = new Scanner(System.in);
         int choice;
         do {
